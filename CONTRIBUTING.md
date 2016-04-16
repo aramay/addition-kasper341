@@ -1,0 +1,4 @@
+- Fork the Repo
+- Update the Repo
+- PR(pull request) the Repo
+- Profit!

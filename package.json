@@ -1,0 +1,24 @@
+{
+  "name": "addition-kasper341",
+  "version": "0.0.1",
+  "description": "foo bar",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasper341/addition-kasper341.git"
+  },
+  "keywords": [
+    "addition",
+    "trent",
+    "oswald"
+  ],
+  "author": "Abid Ramay <kasper_341@hotmail.com> (@kasper341)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasper341/addition-kasper341/issues"
+  },
+  "homepage": "https://github.com/kasper341/addition-kasper341#readme"
+}
